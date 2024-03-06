@@ -67,7 +67,7 @@
     },
     "themecolors.ftd": {
       "name": "themecolors.ftd",
-      "checksum": "E6840731FDD69007266293BF33ED72ECC70A063DE4C976254EB583B36BCF103F",
+      "checksum": "DDF4DD3EFDF69B464ED3F1ABDF0665C37B46ECCD092DF877BED84C7E9C699ED8",
       "size": 6480
     },
     "vercel.json": {
@@ -77,5 +77,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/linktree-template-3/zip/refs/heads/main",
-  "checksum": "15710F44B40D1269F60B9A592889E5EFCF5FD64C54E219955C8F29AC5E80C7F1"
+  "checksum": "A8E46BCB1D40562C01AAE1E30670154CA15AD0DE6D402D27816D2B2502A357B3"
 }
