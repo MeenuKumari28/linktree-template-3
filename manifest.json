@@ -2,8 +2,8 @@
   "files": {
     "FASTN.ftd": {
       "name": "FASTN.ftd",
-      "checksum": "FD76A5D2BEB20ADE7090A53BCD6791913BBD14D12D9DB54E14EB707438CF77E4",
-      "size": 651
+      "checksum": "EFD1E745B44D69B3F3F0D58D36292286C427E6258AF00E6C4A2741A549F73FC5",
+      "size": 550
     },
     "FASTN/ds.ftd": {
       "name": "FASTN/ds.ftd",
@@ -20,6 +20,21 @@
       "checksum": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
       "size": 21
     },
+    "assets/avatar.svg": {
+      "name": "assets/avatar.svg",
+      "checksum": "7E9DF76ED84A4B2022100416F53A9252F712663740E06E3A9F042A61E4A9875D",
+      "size": 331314
+    },
+    "assets/background-dark.jpg": {
+      "name": "assets/background-dark.jpg",
+      "checksum": "DAEE3679348833E02B6754D42CAE96C6865276DB5369706EDDB30867DB29545B",
+      "size": 25481
+    },
+    "assets/background.jpg": {
+      "name": "assets/background.jpg",
+      "checksum": "D7389C4BA083AE7EF3BB4410C7B4B38CAFBA516FB81D82CD62A8102CC2C33E9B",
+      "size": 41525
+    },
     "assets/ipsum-logo-dark.svg": {
       "name": "assets/ipsum-logo-dark.svg",
       "checksum": "8290B3397C465FE1BB40B7CA280C976DF7DA3DABFC655B429805ABF33964FB5B",
@@ -30,6 +45,11 @@
       "checksum": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
       "size": 15494
     },
+    "ds.ftd": {
+      "name": "ds.ftd",
+      "checksum": "775DA7FDF1413A6EE16E854953187020F8B4FFA62E8BD7573EFE84CDF12AABDC",
+      "size": 897
+    },
     "favicon.ico": {
       "name": "favicon.ico",
       "checksum": "65056A1D6C6AAE6E3DC4626E29F4BD4B628B17A8E9CC1D3A5E8FE9F6743F306B",
@@ -37,13 +57,18 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "32532606DDF89B56B42BA173EEAC7F7E9006DEEC07ABF10F6ABE246DC0EC1482",
-      "size": 1190
+      "checksum": "0998A733A8DB12829CD8F85718EEF219B2090F0467A1A2950E28A2279612AB15",
+      "size": 472
     },
-    "sidebar.ftd": {
-      "name": "sidebar.ftd",
-      "checksum": "98EA5E5D5540AA8CCFA6C4ABEE6C2D476F6E1310B6B7E8978E81F62368EFA035",
-      "size": 1281
+    "lib.ftd": {
+      "name": "lib.ftd",
+      "checksum": "B3D57BF7B8972BE72681380C4D48E0F258B6A8C68F80A464A44B7164D7D87B94",
+      "size": 4136
+    },
+    "themecolors.ftd": {
+      "name": "themecolors.ftd",
+      "checksum": "E6840731FDD69007266293BF33ED72ECC70A063DE4C976254EB583B36BCF103F",
+      "size": 6480
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -52,5 +77,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/linktree-template-3/zip/refs/heads/main",
-  "checksum": "D27592FF5CCD015A6A49028BB6215560CE1F14F62401426D447F1025AC216C41"
+  "checksum": "15710F44B40D1269F60B9A592889E5EFCF5FD64C54E219955C8F29AC5E80C7F1"
 }
