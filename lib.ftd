@@ -86,6 +86,7 @@ border-radius.px: 100
 radius: $ds.radius.large
 background.solid: $ds.colors.background.base
 inset: $ds.spaces.inset-square.medium
+shadow: $shadow
 
 -- ds.column:
 
