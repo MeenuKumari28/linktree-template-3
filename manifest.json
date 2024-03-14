@@ -40,10 +40,15 @@
       "checksum": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
       "size": 15494
     },
-    "assets/linktree-3.PNG": {
-      "name": "assets/linktree-3.PNG",
-      "checksum": "3DF3DED71384C54F19C085BAA6FEB7F9E6F861F01145798D679ECDF6D3777ADD",
-      "size": 458742
+    "assets/linktree-dark.png": {
+      "name": "assets/linktree-dark.png",
+      "checksum": "47D147BC7F7CA54DF7CCEB45DE86C3C777757E80392772D00589EFB043B5D3CE",
+      "size": 190857
+    },
+    "assets/linktree.png": {
+      "name": "assets/linktree.png",
+      "checksum": "C9A442EEAEC8C0D775E81006EF5D641E0A58BB4F5B5E5986E8D5425403556F11",
+      "size": 183264
     },
     "ds.ftd": {
       "name": "ds.ftd",
@@ -57,8 +62,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "A5A25154BBBC9AC1C6F9D99ACD4B991D0120E34A9E2290C6BAC981EB57A036CE",
-      "size": 1094
+      "checksum": "C543D6CBE9E080E84409565FBB06EA17C3F7F8C3FA701C99B5022127837FFFAA",
+      "size": 1092
     },
     "lib.ftd": {
       "name": "lib.ftd",
@@ -77,5 +82,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/linktree-template-3/zip/refs/heads/main",
-  "checksum": "2FD5D0E13339EF2FCD38AD6A1D67E4F7AAEF78F09E0FD767C462BEC7946A38BA"
+  "checksum": "87FC369EDDB8500045760598EF5CCE28D04818D97B4D424D9A4FDE024C2FACE9"
 }
